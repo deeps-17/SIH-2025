@@ -1,8 +1,8 @@
-# 🐄 Cattle Breed Recognition System
+# Cattle Breed Recognition System
 
 Production-ready cattle breed classifier using MobileNetV2 Transfer Learning. Model developed and evaluated in the companion analysis repository.
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Backend (FastAPI)
 ```bash
@@ -20,13 +20,13 @@ npm start
 ```
 - App will be live at: `http://localhost:3000`
 
-## 📸 Sample Output
+##  Sample Output
 When an image is uploaded, the system returns:
 - **Predicted Breed** (e.g., Sahiwal)
 - **Confidence Score** (e.g., 94%)
 - **Breed Characteristics** (e.g., Heat tolerance, high milk yield)
 
-## 🖼️ Demo
+##  Demo
 ![Sample Prediction](backend/demo_prediction.png)
 
 ---
