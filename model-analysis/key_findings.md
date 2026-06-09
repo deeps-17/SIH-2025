@@ -1,4 +1,4 @@
-# 🐄 Key Findings: Cattle Breed Recognition 
+#  Key Findings: Cattle Breed Recognition 
 
 After evaluating multiple architectures under varying dataset constraints, several critical insights emerged regarding deep learning application in niche domains.
 
